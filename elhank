@@ -224,33 +224,33 @@ http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
 #EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", GOLD DIAMOND
 http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA", TV1 SD
+#EXTINF:-1 roup-title="MALAYSIA", TV1 SD
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1 group-title="MALAYSIA", TV2 SD
+#EXTINF:-1 roup-title="MALAYSIA", TV2 SD
 http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1 group-title="MALAYSIA", 1NEWS SD
+#EXTINF:-1 roup-title="MALAYSIA", 1NEWS SD
 http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
-#EXTINF:-1 group-title="MALAYSIA", Bernama TV
+#EXTINF:-1 roup-title="MALAYSIA", Bernama TV
 http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA", AWANI
+#EXTINF:-1 roup-title="MALAYSIA", AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
-#EXTINF:-1 group-title="MALAYSIA", MUZIK AKTIF
+#EXTINF:-1 roup-title="MALAYSIA", MUZIK AKTIF
 http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
-#EXTINF:-1 group-title="MALAYSIA", PARLIMEN TV
+#EXTINF:-1 roup-title="MALAYSIA", PARLIMEN TV
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
-#EXTINF:-1 group-title="MALAYSIA", ASTRO GO SHOP
+#EXTINF:-1 roup-title="MALAYSIA", ASTRO GO SHOP
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_03.m3u8
-#EXTINF:-1 group-title="MALAYSIA", BERNAMA NEWS CHANNEL
+#EXTINF:-1 roup-title="MALAYSIA", BERNAMA NEWS CHANNEL
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA", BERNAMA 
+#EXTINF:-1 roup-title="MALAYSIA", BERNAMA 
 http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1 group-title="MALAYSIA", RTM TV OKEY
+#EXTINF:-1 roup-title="MALAYSIA", RTM TV OKEY
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:0, group-title="MALAYSIA", BERNAMA NEWS CHANNEL
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA", Astro Sport
+#EXTINF:-1 roup-title="MALAYSIA", Astro Sport
 http://103.242.13.90:5555/udp/239.4.1.148:10000
-#EXTINF:-1 group-title="MALAYSIA", ASTRO ARENA
+#EXTINF:-1 roup-title="MALAYSIA", ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP SURIA
@@ -508,14 +508,6 @@ http://cdnv.cli.tn/iptv/ch931?code=610116485444847
 http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
 #EXTINF:0, group-title="SPORT", BT Sport Extra
 http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
-#EXTINF:0, group-title="SPORT", Suluk MOTO GP
-http://sg.doohdbox.com:8080/skymotor/mono.m3u8
-#EXTINF:0, group-title="SPORT", Suluk TRUE SPORT HD3
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/231.m3u8
-#EXTINF:0, group-title="SPORT", Suluk BEIN 1 HD True Vision
-http://139.99.38.2:443/epl-bein1_1080/index.m3u8
-#EXTINF:0, group-title="SPORT", ASTRO SPORT
-http://103.242.13.90:5555/udp/239.4.1.148:10000
 #EXTINF:0, group-title="SPORT", ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:0, group-title="SPORT", SONY ESPN HD
@@ -911,7 +903,6 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1, group-title="QATAR", Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-
 
 #EXTINF:-1, group-title="IRAN", IRIB TV3
 http://94.182.148.101:80/live-53/smil:53_tv3.smil/playlist.m3u8
