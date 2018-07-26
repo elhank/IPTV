@@ -224,33 +224,33 @@ http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
 #EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", GOLD DIAMOND
 http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
 
-#EXTINF:-1 roup-title="MALAYSIA", TV1 SD
+#EXTINF:-1 group-title="MALAYSIA", TV1 SD
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1 roup-title="MALAYSIA", TV2 SD
+#EXTINF:-1 group-title="MALAYSIA", TV2 SD
 http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1 roup-title="MALAYSIA", 1NEWS SD
+#EXTINF:-1 group-title="MALAYSIA", 1NEWS SD
 http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
-#EXTINF:-1 roup-title="MALAYSIA", Bernama TV
+#EXTINF:-1 group-title="MALAYSIA", Bernama TV
 http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
-#EXTINF:-1 roup-title="MALAYSIA", AWANI
+#EXTINF:-1 group-title="MALAYSIA", AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
-#EXTINF:-1 roup-title="MALAYSIA", MUZIK AKTIF
+#EXTINF:-1 group-title="MALAYSIA", MUZIK AKTIF
 http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
-#EXTINF:-1 roup-title="MALAYSIA", PARLIMEN TV
+#EXTINF:-1 group-title="MALAYSIA", PARLIMEN TV
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
-#EXTINF:-1 roup-title="MALAYSIA", ASTRO GO SHOP
+#EXTINF:-1 group-title="MALAYSIA", ASTRO GO SHOP
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_03.m3u8
-#EXTINF:-1 roup-title="MALAYSIA", BERNAMA NEWS CHANNEL
+#EXTINF:-1 group-title="MALAYSIA", BERNAMA NEWS CHANNEL
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
-#EXTINF:-1 roup-title="MALAYSIA", BERNAMA 
+#EXTINF:-1 group-title="MALAYSIA", BERNAMA 
 http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1 roup-title="MALAYSIA", RTM TV OKEY
+#EXTINF:-1 group-title="MALAYSIA", RTM TV OKEY
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:0, group-title="MALAYSIA", BERNAMA NEWS CHANNEL
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
-#EXTINF:-1 roup-title="MALAYSIA", Astro Sport
+#EXTINF:-1 group-title="MALAYSIA", Astro Sport
 http://103.242.13.90:5555/udp/239.4.1.148:10000
-#EXTINF:-1 roup-title="MALAYSIA", ASTRO ARENA
+#EXTINF:-1 group-title="MALAYSIA", ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP SURIA
